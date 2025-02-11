@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Paraila](paraila.com)
 
-- 🌱 I’m currently learning **Swift UI**
+- 🌱 I’m currently learning **RL, ML, Swift UI**
 
 - 💬 Ask me about **Reinforcement Learning and Machine Learning**
 
