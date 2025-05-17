@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m currently working on [Paraila](paraila.com)
+- 🔭 I’m currently working on <a href="https://paraila.com" target="blank"><img align="center" src="https://paraila.com/static/images/paraila_dark.png" alt="paraila" height="20" width="80" /></a>
 
 - 🌱 I’m currently learning **RL, ML, Swift UI**
 
