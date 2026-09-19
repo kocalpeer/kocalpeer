@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://paraila.com" target="blank"><img align="center" src="https://paraila.com/static/images/paraila_dark.png" alt="paraila" height="20" width="80" /></a>
 
-- 🌱 I’m currently learning **RL, ML, Swift UI**
-
-- 💬 Ask me about **Reinforcement Learning and Machine Learning**
+- 💬 Ask me about **LLM, Reinforcement Learning and Machine Learning**
 
 - 📫 How to reach me **kocalpeer@gmail.com**
 
